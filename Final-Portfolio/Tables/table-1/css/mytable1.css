@@ -1,0 +1,9 @@
+html{padding:0; margin:0;}
+body{padding:0; margin:0;}
+.mystyle{font:Arial, Helvetica, sans-serif; font-size:14px; line-height:24px; border-collapse:collapse; color:000; margin-top:50px;}
+.mystyle th.packhead{padding:20px;background-image:linear-gradient(to left, #000, #0C9);color:#ff0; padding:35px;}
+.mystyle .packhead h2{font-size:32px; margin-bottom:15px;}
+.mystyle .packhead storng{font-size:22px;}
+.mystyle .nobdr {border-top-color:#fff; border-left-color:#fff;}
+.mystyle tr:hover{background:#0FC;}
+.mystyle tr:nth-child(1):hover{background:#fff;}
